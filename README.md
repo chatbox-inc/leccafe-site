@@ -1,6 +1,6 @@
 # leccafe-site
 
-> My luminous Nuxt.js project
+> leccafeのサイト制作リポジトリです。
 
 ## Build Setup
 
